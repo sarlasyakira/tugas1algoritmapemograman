@@ -1,0 +1,19 @@
+Perbedaannya adalah ketika kita menggunakan compiler, kode sumber akan dikonversi menjadi machine code (membuat berkas executable) sebelum program tersebut dijalankan. Sedangkan interpreter mengonversi source code menjadi machine code secara langsung ketika program dijalankan.
+Memudahkan Pembuatan Aplikasi,Ukuran Sebuah Program Bisa Lebih Kecil,Menguraikan Perintah Menjadi Lebih Sederhana,MencegahTerjadinya Perulangan,Dapat Menggunakan Kode yang Sama Meskipun Berbeda Aplikasi,Dapat Memecah Bagian-bagian Aaplikasi,Dapat Menyembunyikan Fitur-fitur Dari Sisi Pengguna,Dapat Melacak Kesalahan Dengan Mudah,
+Bahasa pemrograman ini digunakan untuk segala hal, mulai dari membangun sistem operasi hingga membuat video game dan membuat ANIMASI 3D. Meskipun mungkin memiliki kurva belajar yang lebih curam daripada yang lain, C ++ memiliki potensi yang luar biasa
+C / C++ lebih banyak digunakan untuk pemrogaman yang
+1/ mendekati Hardware
+contoh nya : membuat Device Drivers, Kernel Operating System, Interpreter Compiler dan software2 lain yang sejenis.  untuk aplikasi2 yang butuh kecepatan tinggi dan akses ke Hardware.
+#include <iostream>
+
+int main() {
+    std::cout <<"Belajar Koding di Kelas Algoritma!\n";
+
+    std::cout <<"Belajar Koding di Kelas Algoritma!\n";
+
+    std::cout <<"Belajar Koding di Kelas Algoritma!\n";
+
+    std::cout <<"Belajar Koding di Kelas Algoritma!\n";
+
+    std::cout <<"Belajar Koding di Kelas Algoritma!\n";
+}
